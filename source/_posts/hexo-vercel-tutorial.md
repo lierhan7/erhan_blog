@@ -8,9 +8,6 @@ categories:
   - 教程
 ---
 
-# Hexo + Vercel 个人技术博客搭建完整教程（2026 最新版）
-
-
 ## 前期准备
 
 ### 1. 安装 Node.js
